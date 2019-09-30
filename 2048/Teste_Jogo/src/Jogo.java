@@ -12,7 +12,7 @@ public class Jogo extends JPanel implements KeyListener, Runnable {
 
 	public static final int LARGURA = 400;
 	public static final int ALTURA = 450;
-	public static final Font main = new Font("Arial", Font.PLAIN, 28); // troca a fonte para Arial tamanho 28
+	public static final Font main = new Font("Arial Rounded MT Bold", Font.PLAIN, 28); // troca a fonte para Arial tamanho 28
 	private Thread jogo;
 	private boolean rodando;
 	private BufferedImage imagem = new BufferedImage(LARGURA, ALTURA, BufferedImage.TYPE_INT_RGB); // imagem que sera desenhada no JPanel

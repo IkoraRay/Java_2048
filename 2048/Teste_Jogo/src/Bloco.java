@@ -3,11 +3,14 @@ import java.awt.Font;
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
 
+import javax.swing.JFrame;
+import javax.swing.JOptionPane;
+
 public class Bloco {
 
 	public static final int LARGURA = 80;
 	public static final int ALTURA = 80;
-	public static final int VEL_DESLIZE = 25;
+	public static final int VEL_DESLIZE = 50;
 	public static final int ARC_LARGURA = 15;
 	public static final int ARC_ALTURA = 15;
 
@@ -51,35 +54,35 @@ public class Bloco {
 			break;
 		case 16:
 			corFundo = new Color(0xf59563);
-			corNumero = new Color(0xffffff);
+			corNumero = new Color(0x000000);
 			break;
 		case 32:
 			corFundo = new Color(0xf67c5f);
-			corNumero = new Color(0xffffff);
+			corNumero = new Color(0x000000);
 			break;
 		case 64:
 			corFundo = new Color(0xf65e3b);
-			corNumero = new Color(0xffffff);
+			corNumero = new Color(0x000000);
 			break;
 		case 128:
 			corFundo = new Color(0xedcf72);
-			corNumero = new Color(0xffffff);
+			corNumero = new Color(0x000000);
 			break;
 		case 256:
 			corFundo = new Color(0xedcc61);
-			corNumero = new Color(0xffffff);
+			corNumero = new Color(0x000000);
 			break;
 		case 512:
 			corFundo = new Color(0xedc850);
-			corNumero = new Color(0xffffff);
+			corNumero = new Color(0x000000);
 			break;
 		case 1024:
 			corFundo = new Color(0xedc53f);
-			corNumero = new Color(0xffffff);
+			corNumero = new Color(0x000000);
 			break;
 		case 2048:
 			corFundo = new Color(0xedc22e);
-			corNumero = new Color(0xffffff);
+			corNumero = new Color(0x000000);
 			break;
 
 		}
@@ -101,7 +104,7 @@ public class Bloco {
 		graficos.dispose();
 		
 	}
-
+	
 	public void atualiza() {
 		
 	}
