@@ -112,6 +112,12 @@ public class ClassifierActivity extends CameraActivity implements OnImageAvailab
         });
   }
 
+  public void testeTOp() {
+      if(classifier.recognizeImage(rgbFrameBitmap, sensorOrientation) .toString()== "gar")
+          System.out.println(classifier.recognizeImage(rgbFrameBitmap, sensorOrientation) .toString());
+
+  }
+
   @Override
   protected void onInferenceConfigurationChanged() {
     if (rgbFrameBitmap == null) {

@@ -14,6 +14,7 @@ import java.util.Random;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
+
 public class Interface extends Inicio {
 
 	public static final int LINHAS = 4;

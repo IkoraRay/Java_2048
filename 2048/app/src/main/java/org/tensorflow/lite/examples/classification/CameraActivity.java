@@ -179,18 +179,12 @@ public abstract class CameraActivity extends AppCompatActivity
 
     recognitionTextView = findViewById(R.id.detected_item);
     recognitionValueTextView = findViewById(R.id.detected_item_value);
-    System.out.println("PINTO" + recognitionTextView);
-    System.out.println("CU" + recognitionValueTextView);
+    //testar aqui
 
     recognition1TextView = findViewById(R.id.detected_item1);
     recognition1ValueTextView = findViewById(R.id.detected_item1_value);
-    System.out.println(recognition1TextView);
-    System.out.println(recognition1ValueTextView);
-
     recognition2TextView = findViewById(R.id.detected_item2);
-    recognition2ValueTextView = findViewById(R.id.detected_item2_value);
-    System.out.println(recognition1TextView);
-    System.out.println(recognition1ValueTextView);
+    recognition2ValueTextView = findViewById(R.id.detected_item2_value);;
 
     frameValueTextView = findViewById(R.id.frame_info);
     cropValueTextView = findViewById(R.id.crop_info);
