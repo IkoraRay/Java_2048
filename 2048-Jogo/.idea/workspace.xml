@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb644bf3-a3f3-49a3-a4a8-0121c2d8f65f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Teste_Jogo/src/Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/Teste_Jogo/src/Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2048/app/src/main/java/org/tensorflow/lite/examples/classification/CameraActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2048/app/src/main/java/org/tensorflow/lite/examples/classification/CameraActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2048/app/src/main/java/org/tensorflow/lite/examples/classification/ClassifierActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2048/app/src/main/java/org/tensorflow/lite/examples/classification/ClassifierActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2048/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2048/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2048/app/src/main/res/layout/activity_setup.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2048/app/src/main/res/layout/activity_setup.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples-TF" beforeDir="false" afterPath="$PROJECT_DIR$/../examples-TF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Bloco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/DesenhosAuxiliares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Direcao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Inicio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Interface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Jogo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Ponto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Teclado.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1UDL1XoAwWnQYPq1LB8xGqtGn9h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb644bf3-a3f3-49a3-a4a8-0121c2d8f65f" name="Default Changelist" comment="" />
+      <created>1574886004932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574886004932</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="201" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1574886638974">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="201" y="27" width="1024" height="741" key="SettingsEditor/70.27.1296.741@70.27.1296.741" timestamp="1574886638974" />
+  </component>
+</project>
